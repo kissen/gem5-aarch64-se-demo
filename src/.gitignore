@@ -1,1 +1,2 @@
-kernel.elf my_main.o writestr.o start.o
+*.o
+*.elf

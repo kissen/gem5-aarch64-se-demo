@@ -28,5 +28,4 @@ Limitations
 
 Currently, the only supported IO is the `write` system call,
 interfaced through the `writestr` function. For more advanced
-projects, you should use a full embedded C library. I know people have
-had success with [Newlib](https://sourceware.org/newlib/).
+projects, [you should use a full embedded C library](https://www.hacks.moe/posts/5/Compiling_aarch64_Binaries_for_gem5_SE_Mode).
